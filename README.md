@@ -1,1 +1,1 @@
-# blogs-api
+Olá, meu nome é Lucas Pinheiro e esta é uma API feita em JAVASCRIPT no NODE.JS, utitlizando como framework para gerenciar as requisições e rotas o EXPRESS!! Usando o JWT para autenticação e validação, e o SEQUELIZE para a criação, versionamento, população de tabelas e das models!!
